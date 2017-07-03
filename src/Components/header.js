@@ -23,7 +23,7 @@ class Header extends Component {
               <MenuItem eventKey="1" ><Link to="/addShow">Add a show</Link></MenuItem>
               <MenuItem eventKey="2"><Link to="/addRehersal">Add a Rehersal</Link></MenuItem>
               <MenuItem eventKey="3">Calendar</MenuItem>
-              <MenuItem eventKey="3">Merch Dashboard</MenuItem>
+              <MenuItem eventKey="3"><Link to="/Merch" name="Jnel">Merch</Link></MenuItem>
               <MenuItem divider />
               <MenuItem eventKey="4">Socials</MenuItem>
             </NavDropdown>

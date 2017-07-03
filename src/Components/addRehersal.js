@@ -6,7 +6,8 @@ import { Col, FormGroup, ControlLabel, FormControl, HelpBlock} from 'react-boots
 class AddShow extends Component {
   render(){
         return (
-      <Col sm={12} md={6} mdOffset={3}> 
+      <Col sm={12} md={6} mdOffset={3}>
+      <h2>Add a Rehersal</h2> 
 		<ul>
 			<FormGroup>
 				<ControlLabel>Date</ControlLabel>
